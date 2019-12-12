@@ -9,3 +9,5 @@ function calcAll() {
   // Iteration 1.2
 }
 $calc.onclick = calcAll;
+
+
